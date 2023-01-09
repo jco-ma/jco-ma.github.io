@@ -97,7 +97,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 583px;
-  background-image: url("images/911422be545be4f478713eca7a6b0d9f040226d3f320e8c032fe9830d83c447c65b4c420293e927c5c5e0ce95a2606ceda494da50a0a9317b6fd44_1280.jpg");
+  background-image: url("images/911422be545be4f478713eca7a6b0d9f040226d3f320e8c032fe9830d83c447c65b4c420293e927c5c5e0ce95a2606ceda494da50a0a9317b6fd44_1280-17.jpg");
   background-position: 50% 50%;
 }
 
@@ -1444,7 +1444,6 @@
 }
 
 .u-section-7 .u-text-1 {
-  font-weight: 700;
   font-size: 3rem;
   margin: 44px 20px 0 0;
 }
@@ -1480,6 +1479,7 @@
   .u-section-7 .u-text-1 {
     margin-right: 16px;
     position: relative;
+    font-weight: bold;
   }
 
   .u-section-7 .u-text-2 {
